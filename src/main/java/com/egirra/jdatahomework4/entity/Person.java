@@ -12,7 +12,7 @@ import javax.persistence.Table;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-@Table(name = "PERSONS")
+@Table(name = "Persons")
 public class Person {
     @EmbeddedId
     private Human human;
