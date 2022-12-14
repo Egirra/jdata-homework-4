@@ -1,4 +1,4 @@
-package com.egirra.jdatahomework6.entity;
+package com.egirra.jdatahomework7.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

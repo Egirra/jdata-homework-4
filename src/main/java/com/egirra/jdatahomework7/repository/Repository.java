@@ -1,6 +1,6 @@
-package com.egirra.jdatahomework6.repository;
+package com.egirra.jdatahomework7.repository;
 
-import com.egirra.jdatahomework6.entity.Person;
+import com.egirra.jdatahomework7.entity.Person;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;

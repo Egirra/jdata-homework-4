@@ -1,4 +1,4 @@
-package com.egirra.jdatahomework6.entity;
+package com.egirra.jdatahomework7.entity;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
