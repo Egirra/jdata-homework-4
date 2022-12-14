@@ -1,13 +1,13 @@
-package com.egirra.jdatahomework5;
+package com.egirra.jdatahomework6;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JdataHomework5ApplicationTests {
+class JdataHomework6ApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
